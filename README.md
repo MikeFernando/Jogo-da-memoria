@@ -7,6 +7,6 @@
 <p align="center"> App using only javiscript.</p>
 
 <div align="center">
-  <img src="./github/jogo.gif" alt="moveit">
-  <img src="./github/jogo.jpg" alt="moveit">
+  <img src="./github/jogo.gif" >
+  <img src="./github/jogo.png" >
 </div>
