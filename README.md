@@ -8,5 +8,5 @@
 
 <div align="center">
   <img src="./github/jogo.gif" >
-  <img src="./github/jogo.png" >
+  <img src="./github/jogo.png" widht="500px" >
 </div>
